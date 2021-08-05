@@ -8,7 +8,6 @@ export const Header = () => {
             alt="Logo Pokemon" height="100"  />
             <Link to="/">All Pokemons</Link>
             <Link to="/YourPokemons">Your Pokemons</Link>
-            <Link to="/detail/pikachu">Details</Link>
         </>
     )
 }
